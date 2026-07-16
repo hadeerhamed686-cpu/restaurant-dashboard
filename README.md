@@ -37,6 +37,6 @@ The dashboard provides different sections for:
 - JavaScript (ES6+)
 
 ## 📂 Project Structure
-## 📸 Screenshoots
+## 📸 Screenshots
 
 ![Dashboard](./screenshots/dashboard.jpeg)
