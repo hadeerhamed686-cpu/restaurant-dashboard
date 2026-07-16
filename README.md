@@ -1,16 +1,39 @@
-# React + Vite
+# 🍔 Restaurant Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Restaurant Admin Dashboard built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 📌 About The Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Restaurant Dashboard is a front-end admin panel that helps restaurant owners manage their business data easily.
 
-## React Compiler
+The dashboard provides different sections for:
+- Orders management
+- Menu management
+- Customers tracking
+- Analytics overview
+- Settings
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Responsive dashboard layout
+- Sidebar navigation
+- Navbar header
+- Orders management with:
+  - Search functionality
+  - Filter by order status
+  - Order status badges
+  - Orders table
+- Menu management
+- Customers management
+- Analytics page
+- Clean and modern UI design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React.js
+- React Router DOM
+- Tailwind CSS
+- Vite
+- JavaScript (ES6+)
+
+## 📂 Project Structure
