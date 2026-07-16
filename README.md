@@ -26,9 +26,7 @@ It helps manage orders, menu items, customers, and restaurant data through a cle
 
 📸 Screenshots
 
-"Dashboard" (./screenshots/dashboard.jpg)
-
-🌐 Live Demo
+<img src="./screenshots/dashboard.jpeg" alt="Dashboard" width="800"/>🌐 Live Demo
 
 Coming soon...
 
