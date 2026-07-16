@@ -44,13 +44,15 @@ Run the project:
 
 npm run dev
 
-📂 Project Structure
+## 📂 Project Structure
 
+```text
 src/
 ├── components/
 ├── pages/
 ├── data/
 └── main.jsx
+```
 
 👩‍💻 Author
 
