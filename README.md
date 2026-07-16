@@ -1,11 +1,11 @@
-# 🍔 Restaurant Admin Dashboard
+🍔 Restaurant Admin Dashboard
 
-## 📌 Description
+📌 Description
 
-A modern restaurant management dashboard built with React and Tailwind CSS.  
+A modern restaurant management dashboard built with React and Tailwind CSS.
 It helps manage orders, menu items, customers, and restaurant data through a clean and responsive admin interface.
 
-## 🚀 Features
+🚀 Features
 
 - Dashboard overview with statistics
 - Orders management
@@ -17,24 +17,41 @@ It helps manage orders, menu items, customers, and restaurant data through a cle
 - Settings page
 - Responsive design for different screen sizes
 
-## 🛠️ Technologies
+🛠️ Technologies
 
 - React
 - Vite
 - Tailwind CSS
 - React Router
 
-## 📸 Screenshots
+📸 Screenshots
 
-<img src="./screenshots/dashboard.jpeg" alt="Dashboard" width="800"/>
-
-## 🌐 Live Demo
+<img src="./screenshots/dashboard.jpeg" alt="Dashboard" width="800"/>🌐 Live Demo
 
 Coming soon...
 
-## ⚙️ Installation
+⚙️ Installation
 
 Clone the repository:
 
-```bash
 git clone https://github.com/hadeerhamed686-cpu/restaurant-dashboard.git
+
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm run dev
+
+📂 Project Structure
+
+src/
+├── components/
+├── pages/
+├── data/
+└── main.jsx
+
+👩‍💻 Author
+
+Hadeer Hamed
