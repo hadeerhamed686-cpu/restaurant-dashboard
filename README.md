@@ -24,13 +24,12 @@ It helps manage orders, menu items, customers, and restaurant data through a cle
 - Tailwind CSS
 - React Router
 
-## 📸 Screenshots
+📸 Screenshots
 
-<img src="./screenshots/dashboard.jpeg" alt="Dashboard" width="800"/>
-
-## 🌐 Live Demo
+<img src="./screenshots/dashboard.jpeg" alt="Dashboard" width="800"/>🌐 Live Demo
 
 Coming soon...
+
 ⚙️ Installation
 
 Clone the repository:
@@ -45,14 +44,14 @@ Run the project:
 
 npm run dev
 
-## 📂 Project Structure
+📂 Project Structure
 
-```text
 src/
 ├── components/
 ├── pages/
 ├── data/
 └── main.jsx
+
 👩‍💻 Author
 
 Hadeer Hamed
