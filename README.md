@@ -5,6 +5,8 @@
 A modern restaurant management dashboard built with React and Tailwind CSS.
 It helps manage orders, menu items, customers, and restaurant data through a clean and responsive admin interface.
 
+---
+
 🚀 Features
 
 - Dashboard overview with statistics
@@ -17,6 +19,8 @@ It helps manage orders, menu items, customers, and restaurant data through a cle
 - Settings page
 - Responsive design for different screen sizes
 
+---
+
 🛠️ Technologies
 
 - React
@@ -24,11 +28,17 @@ It helps manage orders, menu items, customers, and restaurant data through a cle
 - Tailwind CSS
 - React Router
 
+---
+
 📸 Screenshots
 
-<img src="./screenshots/dashboard.jpeg" alt="Dashboard" width="800"/>🌐 Live Demo
+<img src="./screenshots/dashboard.jpeg" alt="Restaurant Dashboard" width="800"/>---
 
-Coming soon...
+🌐 Live Demo
+
+https://restaurant-dashboard-beta-two.vercel.app/
+
+---
 
 ⚙️ Installation
 
@@ -44,15 +54,23 @@ Run the project:
 
 npm run dev
 
-## 📂 Project Structure
+---
 
-```text
+📂 Project Structure
+
 src/
+│
 ├── components/
+│
 ├── pages/
+│
 ├── data/
+│
+├── assets/
+│
 └── main.jsx
-```
+
+---
 
 👩‍💻 Author
 
