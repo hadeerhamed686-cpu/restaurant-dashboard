@@ -56,19 +56,16 @@ npm run dev
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
+```text
 src/
-│
-├── components/
-│
-├── pages/
-│
-├── data/
-│
-├── assets/
-│
-└── main.jsx
+  ├── components/
+  ├── pages/
+  ├── data/
+  ├── assets/
+  └── main.jsx
+```
 
 ---
 
